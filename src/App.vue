@@ -1,7 +1,5 @@
 <template>
   <div id="app">
-    <!--the other part-->
-  <Other></Other>
    <!--about section, a vue component -->
 <About></About> 
 <!--project -->
@@ -11,6 +9,8 @@
    
  <!--Inspiration -->
  <Inspiration></Inspiration>
+ <!--the other part-->
+  <Other></Other>
  <a href="#top">Top</a>
 
   </div>
@@ -25,11 +25,11 @@ import Inspiration from './components/Inspiration.vue'
 export default {
   name: 'App',
   components:{
-    Other,
     About,
     Projects,
     Study,
-    Inspiration
+    Inspiration,
+    Other,
   }
   
 }

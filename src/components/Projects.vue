@@ -1,8 +1,8 @@
 <template>
     <h3 id="projects">Projects</h3>
    <p>
-     Calculator (im proud because its the first mini project i made,used C#)<br>
-     Fuel Management System , for Zupco (mini project)<br>
+     Calculator <br>
+     Fuel Management System , for Zupco <br>
      Fingerprint Attendance System 
   </p>
 </template>

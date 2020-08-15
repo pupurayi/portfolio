@@ -3110,12 +3110,12 @@
   
   .btn-link {
     font-weight: 400;
-    color: #007bff;
+    color: #fff;
     text-decoration: none;
   }
   
   .btn-link:hover {
-    color: #0056b3;
+    color: #fff;
     text-decoration: underline;
   }
   
@@ -4294,7 +4294,7 @@
   .nav-pills .nav-link.active,
   .nav-pills .show > .nav-link {
     color: #fff;
-    background-color: #007bff;
+    background-color: #fff;
   }
   
   .nav-fill .nav-item {
