@@ -6,7 +6,7 @@
   </p>
 
   <p> Here is a little story about me, am always proud to share  for it ministers how much things do not always go our way but still tends to be the best thing that ever happened.<br>
-    I then proceeded to do my A level at Seke 1 High in Chitungwiza. I worked hard enough to come out with not so  many points.
+    During Advanced levels, I worked hard enough to come out with not so  many points.
     At this stage i was kinda heartbrocken for i wanted to do Pharmacy. I applied here at HIT and i still remember, Software Engineering
     was my last prefference. I was actually scared when i got the place,my sister there told me how much being a HIT student was very hard
    and on top of it i had no history with computers. Iwas scared kani &#128550;,lucky enough,here i am...I can actually see that this was the best
