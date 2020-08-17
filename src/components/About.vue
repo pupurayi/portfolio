@@ -1,13 +1,13 @@
 <template>
-     
-     <p style="font-size:large;color:purple;">
-    <a href="#about">About Me</a>|
-    <a href="#projects">Projects</a>|
-    <a href="#study">Study Background</a>|
-    <a href="#inspiration">Inspiration</a>
-  </p>
-<center> <img src="me.png" alt="Avatar" style="border-radius: 50%;"></center>
-    <div><h3 id="about"> About </h3></div>
+  <div class="topnav">
+     <a class="active" href="#about">Home</a>
+     <a href="#projects">Projects</a>
+     <a href="#study">Study</a>
+     <a href="#other">More</a>
+   </div>
+
+<center> <img src="me.png" alt="Avatar" style="border-radius: 50%;" id="about"></center>
+    <div><h3 > About </h3></div>
     
    <p >
       Im  Pupurayi Paula Marisa, a second year Software Engineering undergraduate at <a class="anchors" href="https://hit.ac.zw">Harare Institute of Technology</a>. My interest is in web design
