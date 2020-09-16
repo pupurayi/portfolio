@@ -45,12 +45,12 @@ body{
   h2{
       text-emphasis: bold;
     text-align: center;
-      color:purple;
+      color:rgb(34,03,45);
       }
   h3{
      text-emphasis: bold;
       text-align: center;
-      color:purple;
+      color:rgb(34,03,45);
       }
   
   img{
@@ -91,7 +91,7 @@ body{
   
   
   footer{
-    background-color:purple;
+    background-color:rgb(34,03,45);
     text-align: center;
     color: white;
     font-style: fixed;
@@ -99,7 +99,7 @@ body{
   
   /* Add a purple background color to the top navigation */
 .topnav {
-  background-color: purple;
+  background-color: rgb(34,03,45);
   overflow: hidden;
   position: fixed;
   top: 0;

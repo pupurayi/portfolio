@@ -16,5 +16,11 @@ export default {
 </script>
 
 <style scoped>
-
+background{
+  color: rgb(34,03,45);
+}
+p{
+  color: white;
+  background-color: rgb(34,03,45);
+}
 </style>
