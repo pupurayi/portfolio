@@ -23,7 +23,7 @@ body{
 }
 
 .anchors{
-    color:purple;
+    color:#751c92;
     transition: all .4s;
     text-decoration: underline;
 }
@@ -45,12 +45,12 @@ body{
   h2{
       text-emphasis: bold;
     text-align: center;
-      color:rgb(34,03,45);
+      color:#751c92;
       }
   h3{
      text-emphasis: bold;
       text-align: center;
-      color:rgb(34,03,45);
+      color:#751c92;
       }
   
   img{
@@ -91,7 +91,7 @@ body{
   
   
   footer{
-    background-color:rgb(34,03,45);
+    background-color:#751c92;
     text-align: center;
     color: white;
     font-style: fixed;
@@ -99,7 +99,7 @@ body{
   
   /* Add a purple background color to the top navigation */
 .topnav {
-  background-color: rgb(34,03,45);
+  background-color: #751c92;
   overflow: hidden;
   position: fixed;
   top: 0;
