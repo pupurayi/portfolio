@@ -23,7 +23,7 @@ export default {
  .wrapper{
             display:grid;
             grid-template-columns:50% 50%;
-            grid-gap: .5em;
+            grid-gap: .15em;
            /* grid-auto-rows: 100px;*/
            grid-auto-rows: minmax(100px, auto);
         }
