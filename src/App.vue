@@ -11,6 +11,8 @@
  <Inspiration></Inspiration>
  <!--the other part-->
   <Other></Other>
+  <!--Fotter part-->
+  <Footer></Footer>
  <a href="#top">Top</a>
 
   </div>
@@ -22,6 +24,7 @@ import About from './components/About.vue'
 import Projects from './components/Projects.vue'
 import Study from './components/Study.vue'
 import Inspiration from './components/Inspiration.vue'
+
 export default {
   name: 'App',
   components:{
@@ -30,6 +33,7 @@ export default {
     Study,
     Inspiration,
     Other,
+    
   }
   
 }

@@ -1,16 +1,15 @@
 <template>
     <h3 id="inspiration">Inspiration</h3>
- <p>
+  <p>
    My inspiration comes from those who have made it and im confident that one day I will testify. These are the quotes that keep me going, whenever i feel i cant make it
-   i always get back to them.<br>
-   
-   <q>There is nothing impossible to him who try.</q><i>Alexander the Great</i><br>
-    <q>The journey of a thousand miles begins with one step.</q><i>Lao Tzu</i><br>
-     <q>If my mind can conceive it,and my heart can believe it - then i can achieve it.</q><i>Muhammed Ali</i><br>
-    His grace is always sufficient!
-   
- </p>
- 
+   i always get back to them.
+   <ul>
+   <li>There is nothing impossible to him who try.<i>Alexander the Great</i></li>
+   <li>The journey of a thousand miles begins with one step.<i>Lao Tzu</i></li>
+   <li>If my mind can conceive it,and my heart can believe it - then i can achieve it.<i>Muhammed Ali</i></li>
+   <li> His grace is always sufficient!</li>
+   </ul>
+ </p> 
 </template>
 
 <script>
@@ -22,6 +21,19 @@ export default {
 </script>
 
 <style scoped>
+ul {
+  list-style: none; /* Remove default bullets */
+}
 
+ul li::before {
+  content: "\2022";  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  color: #751c92; /* Change the color */
+  font-weight: bold; /* If you want it to be bold */
+  width: 1em; /* Also needed for space (tweak if needed) */
+  margin-left: -1em; /* Also needed for space (tweak if needed) */
+}
 
+    p{
+        text-align: left;
+    }
 </style>
