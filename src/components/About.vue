@@ -6,7 +6,7 @@
      <a href="#other">More</a>
    </div>
 
-<center> <img src="me.png" alt="Avatar" style="border-radius: 50%;" id="about"></center>
+<center> <img src="me.png" alt="Picture of Pupurayi" style="border-radius: 50%;" id="about"></center>
     <div><h3 > About </h3></div>
     
    <p >

@@ -13,7 +13,7 @@
   <Other></Other>
   <!--Fotter part-->
   <Footer></Footer>
- <a href="#top">Top</a>
+ <a href="#top">Back to top</a>
 
   </div>
 </template>

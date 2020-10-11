@@ -53,10 +53,10 @@ body{
       color:#751c92;
       }
   
-  img{
-      height:50%;
-      width:50%;
-  }
+      img{
+        height:35%;
+        width:35%;
+    }
   
   .column {
     width: 100%;
@@ -77,6 +77,8 @@ body{
     height:300px;
     width:250px;
     filter: grayscale(100%);
+    border: #751c92;
+    
   }
   center{
     display: block;
@@ -86,7 +88,7 @@ body{
   }
   
   active{
-    background-color: orange;
+    background-color: #c4c4c4;
   }
   
   
@@ -95,6 +97,10 @@ body{
     text-align: center;
     color: white;
     font-style: fixed;
+     top: 0;
+    left: 0;
+    width: 100%;
+  
   }
   
   /* Add a purple background color to the top navigation */
@@ -114,7 +120,7 @@ body{
 /* Style the links inside the navigation bar */
 .topnav a {
   float: left;
-  color: #f2f2f2;
+  color: #c4c4c4;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -124,13 +130,13 @@ body{
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #ddd;
-  color: black;
+  color:#751c92;
 }
 
 /* Add a color to the active/current link */
 .topnav a.active {
- background-color:orange ;
-  color: white;
+ background-color:#c4c4c4 ;
+  color:#751c92;
 }
     
     
