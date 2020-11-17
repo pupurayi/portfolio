@@ -5,9 +5,7 @@
     Advanced Level ,3 passes.
   </p>
 
-  <p> Here is a little story about me, am always proud to share  for it tells how much things do not always go our way but still tends to be the best thing that ever happened.<br>
-    During Advanced levels, I worked hard enough to come out with not so  many points.
-    At this stage i was kinda heartbrocken for i wanted to do Pharmacy. I applied here at HIT and i still remember, Software Engineering
+  <p>  After my A Level,I applied at HIT and i still remember, Software Engineering
     was my last prefference. I was actually scared  &#128550; when i got the place,i had no history with computers. Luckily here i am...I can actually see that this was the best
    decision i ever made. It reminds me of how God knows what is best for us. I fell in love with SE &#128525; the first lecture when we were told how much we can do and how people like us are vital in todays living. The fact tha we will be solving problems
    in a technical way was the most fascinating. I imagined myself putting a smile on ones face after having made a system for him.
