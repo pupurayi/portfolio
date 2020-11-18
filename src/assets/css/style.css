@@ -4,8 +4,9 @@ html{
 }
 
 body{
-    font-family: 'Courier New', Courier, monospace;
+  font-family: Yu Gothic, Verdana, Geneva, Tahoma, sans-serif;
     padding-top: 100px;
+    font-size: large;
     padding: 15px;
     
 }
