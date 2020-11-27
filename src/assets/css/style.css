@@ -6,7 +6,7 @@ html{
 body{
   font-family: Yu Gothic, Verdana, Geneva, Tahoma, sans-serif;
     padding-top: 100px;
-    font-size: large;
+    font-size: larger;
     padding: 15px;
     
 }
@@ -34,14 +34,6 @@ body{
     transition: all .4s;
     text-decoration: underline;
 }
-
-
-@media(max-width: 768px){
-    .main-body{
-        width: 100vw;
-    }
-}
-
 
   h2{
       text-emphasis: bold;

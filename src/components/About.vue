@@ -11,9 +11,9 @@
     
    <p >
       Im  Pupurayi Paula Marisa, a second year Software Engineering undergraduate at <a class="anchors" href="https://hit.ac.zw">Harare Institute of Technology</a>. My interest is in web design
-     and data science. There is something fascinating about seeing people access something you made and appreciating it.
-     As of now i do not have a lot of experience in web design but im going to get there, as they say a journey of a thousand miles begins with one step.
-  </p>
+     and data science. I am currently working at <a class="anchors" href="https://freshideas.co.zw/">FreshIdeas</a> as an intern, just by being a part of them , I am very much humbled. 
+     I am sure i am going to be able to confidently call myself a dev at the end of my internship program.
+   </p>
 </template>
 
 <script>
